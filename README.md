@@ -1,5 +1,7 @@
 # TemperatureConverter
 
+Project Blog Article: https://portfolio.katiegirl.net/2018/07/29/temperature-conversion-console-application/
+
 This is a very simple console application that I completed for a class assignment. 
 It is shown here to illustrate my coding style, structure, and commenting. 
 This example is considered Level 1 – Easy. 
